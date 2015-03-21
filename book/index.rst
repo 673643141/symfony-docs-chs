@@ -1,5 +1,5 @@
-The Book
-========
+教程
+====
 
 .. toctree::
     :hidden:

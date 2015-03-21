@@ -1,5 +1,5 @@
-The Cookbook
-============
+手册
+====
 
 .. toctree::
     :hidden:

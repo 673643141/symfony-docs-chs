@@ -1,5 +1,5 @@
-Contributing
-============
+贡献指南
+========
 
 .. toctree::
     :hidden:
