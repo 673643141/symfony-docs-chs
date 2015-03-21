@@ -31,7 +31,7 @@ Symfony项目的一个至关重要的理念是： **文档与代码同等重要*
 
 在本小节中，你将学习怎样首次参与文档贡献。下一节将介绍每次你参与文档贡献的操作流程。
 
-现在假设你想要改善Symfony book中 安装 这一章节的文档。为了实现更改，跟随如下几步：
+现在假设你想要改善《Symfony圣经》中《安装》这一章节。为了实现更改，跟随如下几步：
 
 **Step 1.** 访问Symfony官方文档库地址
 `github.com/symfony/symfony-docs`_ 并且 `fork the repository`_ 到你的个人账号。
@@ -47,6 +47,7 @@ Symfony项目的一个至关重要的理念是： **文档与代码同等重要*
     $ git clone git://github.com/<YOUR GITHUB USERNAME>/symfony-docs.git
 
 **Step 3.** 在修改前，切换到 **最旧的维护分支** 。目前为 ``2.3`` 分支：
+（译者注：此中文文档将一直跟随最新的版本，请忽略此条）
 
 .. code-block:: bash
 
